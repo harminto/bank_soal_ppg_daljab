@@ -1,17 +1,16 @@
-# Bank Soal PPG Daljab: Pedagogik, Literasi, dan Numerasi
+# Bank Soal PPG Daljab: Pedagogik, Literasi dan Numerasi, Bidang Studi
 
-Selamat datang di repositori Bank Soal PPG Daljab yang menitikberatkan pada bidang Pedagogik, Literasi, dan Numerasi untuk Program Pendidikan Profesi Guru (PPG).
+Selamat datang di repositori Bank Soal PPG Daljab yang menitikberatkan pada bidang Pedagogik, Literasi, dan Numerasi serta Bidang Studi untuk Program Pendidikan Profesi Guru (PPG) Dalam Jabatan.
 
 ## Deskripsi
 
-Repository ini menyediakan koleksi bank soal yang berfokus pada pengembangan keterampilan guru dalam aspek pedagogik, literasi, dan numerasi. Materi-materi ini dirancang untuk mendukung proses pembelajaran yang beragam dan berkualitas, serta dapat diintegrasikan dengan platform Moodle untuk mempermudah penggunaan.
+Repository ini menyediakan koleksi bank soal yang berfokus pada pengembangan keterampilan guru dalam aspek pedagogik, literasi, dan numerasi serta bidang studi. Materi-materi ini dirancang untuk mendukung proses pembelajaran yang beragam dan berkualitas, serta dapat diintegrasikan dengan platform Moodle untuk mempermudah penggunaan.
 
 ## Struktur Repository
 
 - `Pedagogik/`: Koleksi soal terkait Pedagogik.
-- `Literasi/`: Materi-materi literasi untuk tujuan pembelajaran.
-- `Numerasi/`: Kumpulan soal terkait numerasi dan penerapannya dalam pembelajaran.
-- `Instruksi/`: Panduan dan petunjuk penggunaan bank soal.
+- `Literasi dan Numerasi/`: Materi-materi literasi dan numerasi dan penerapannya dalam pembelajaran.
+- `Program Studi/`: Koleksi soal terkait Program studi.
 
 ## Cara Penggunaan
 
